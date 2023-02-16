@@ -1,1 +1,1 @@
-# salar_data_simple_regression
+# salary_data_simple_regression
